@@ -1,2 +1,1 @@
-# SagemakerProject-POC
-Sagemaker POC
+# MLAWS-SagemakerProject
